@@ -1,4 +1,4 @@
-# Something about this "leetcode" project.
+# Introduction
 
 ## What's in this project?
 This project includes particial solutions to leetcode problems.
