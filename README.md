@@ -20,7 +20,7 @@ Yes, althought I have found a job now, but I think it can help me to remember fu
 But, I don't intend to continue in this project, I will build a new project as a new start of another "leetcod stage", and it is very possible for me to change to another language.
 
 ## Attention!
-I did some problems several times, so for some problems there may be different solutions with different complexity, it is good, but the side affect is that some code is mess. It will take a lot of time to clean redundancy code, so my code just gives you a reference, it is not the most optimal solution. I suggest you to find more optimal solutions in "discuss" of every problem.
+I did some problems several times, so for some problems there may be different solutions with different complexity, it is good, but the side affect is that some code is messy. It will take a lot of time to clean redundancy code, so my code just gives you a reference, it is not the most optimal solution. I suggest you to find more optimal solutions in "discuss" of every problem.
 
 ## Contact
 If you have any question, feel free to contact me via my email: **liyanrong912 at 163 dot com**. 
